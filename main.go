@@ -10,7 +10,8 @@ var film = variabelSatu + " " + variabelDua
 
 func main() {
 	var hasem = ""
-	fmt.Println("Firhansyah subsidi nonton film " + film)
+	aku := " kita"
+	fmt.Println("Firhansyah subsidi nonton film " + film + aku)
 	_ = hasem
 
 }
